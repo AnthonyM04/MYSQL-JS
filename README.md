@@ -11,5 +11,3 @@ week 2 , day 2. connecting MySQL with JavaScript using Node.
 ## See the demo [click here](https://www.bocacode.com).
 
 ![Screen shot](./images/README.webp)
-
-![Screen shot](./images/README.webp)`
